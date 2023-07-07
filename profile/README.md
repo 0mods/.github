@@ -22,11 +22,11 @@
 
 ## Hollow Horizon
 
-- Name: He's not have a name or `NullPointerException: Information is null`
-- Gender: ???
-- Age: ???
-- Country: maybe Russia, or not?
-- About Him: Multi-Language developer.
+- Name: He doesn't have a name, and when you try to get it, it throws an exception: "`IllegalAccessException: not enough permissions`"
+- Gender: Valid
+- Age: Eternal 
+- abstract Country: ()-> County 
+- About Him: Ask him personally if important.
 
 ## Tony Cipher
 
@@ -42,7 +42,7 @@
 - Name: 4auka/Pavel
 - Gender: Male
 - Age: Changes every year
-- Country: ...
+- Country: _
 - About Him: Multi-Language developer.
 
 ## MolodecKDR
