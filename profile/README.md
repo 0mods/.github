@@ -10,8 +10,8 @@
 - [TonyCipher](https://github.com/tonycipher)
 - [Domaman202](https://github.com/domaman202)
 - [MolodecKDR](https://github.com/MolodecKDR)
-## Main Team
 - [GalievDev](https://github.com/GalievDev)
+## Main Team
 - [Kiri](https://github.com/Kiri-Yoshikage)
 
 
