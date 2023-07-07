@@ -42,7 +42,7 @@
 - Name: 4auka/Pavel
 - Gender: Male
 - Age: Changes every year
-- Country: _
+- Country: ...
 - About Him: Multi-Language developer.
 
 ## MolodecKDR
