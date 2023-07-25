@@ -1,4 +1,4 @@
-# 0mods
+# <div align="center"> <img src=https://i.imgur.com/CQ2wMX3.png alt="logo"> </div>
 # About us
 0mods (zeroMods/zeds) - A small team of developers from different countries
 
