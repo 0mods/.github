@@ -13,7 +13,7 @@
 - [GalievDev](https://github.com/GalievDev)
 ## Main Team
 - [Kiri](https://github.com/Kiri-Yoshikage)
-
+- [Hoprik](https://github.com/Hoprik)
 
 # About members
 
@@ -68,3 +68,11 @@
 - Age: Changes every year
 - Country: Ukraine
 - About Him: Translator
+
+## Hoprik
+
+- Name: ???
+- Gender: Male
+- Age: Changes every year
+- Country: Russia
+- About Him: Developer
