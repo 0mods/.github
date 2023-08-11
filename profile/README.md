@@ -71,7 +71,7 @@
 
 ## Hoprik
 [watcher.getLink().aboutHoprik](https://github.com/hoprik/hoprik/blob/main/README.md)
-- Name: if (watcher.FriendHoprik()) {Storymod.logger.info("Valera")}
+- Name: if (watcher.FriendHoprik()) "${gitlog.info.{"Valera"}}"
 - Gender: Male
 - Age: Changes every year
 - Country: Russia
