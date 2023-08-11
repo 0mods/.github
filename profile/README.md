@@ -71,8 +71,8 @@
 
 ## Hoprik
 
-- Name: ???
+- Name: if (watcher.FriendHoprik()) {Storymod.logger.info("Valera")}
 - Gender: Male
 - Age: Changes every year
 - Country: Russia
-- About Him: Developer
+- About Him: Developer, create MiroEngine, works for Ivanchela and stellar verse system admin
