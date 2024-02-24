@@ -7,7 +7,6 @@
 ## Management
 - [AlgorithmLX](https://github.com/algorithmlx)
 - [HollowHorizon](https://github.com/hollowhorizon)
-- [TonyCipher](https://github.com/tonycipher)
 - [Domaman202](https://github.com/domaman202)
 - [MolodecKDR](https://github.com/MolodecKDR)
 - [GalievDev](https://github.com/GalievDev)
@@ -27,15 +26,6 @@
 - Age: Eternal 
 - abstract Country: ()-> County 
 - About Him: Ask him personally if important.
-
-## Tony Cipher
-
-- Name: He's not have a name or `NullPointerException: Information is null`
-- Gender: Male
-- Age: ???
-- Country: Russia
-- idk
-- About Him: What?
 
 ## Domaman202
 
